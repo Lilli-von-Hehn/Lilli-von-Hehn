@@ -1,4 +1,4 @@
-# About Me ✨
+# About Me
 Heyy I'm Lilli, a Computer Science & Design student at Hochschule München (Munich University of Applied Sciences).<br>I’m passionate about designing and developing user-friendly websites and applications with a strong focus on UI/UX and visual design.<br>I enjoy working with Python and continuously improving my technical foundation through university projects and personal coding challenges.<br>I’m Currently looking for a six-month internship as part of my mandatory practical semester.
 
 
